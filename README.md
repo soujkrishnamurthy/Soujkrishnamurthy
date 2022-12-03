@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="950" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKPHpD8nYYrECs2RJRARSDoo0PaIyWiOlMPINk537OndLFrYa_vGyvhk8RQcVcpam6ucM&usqp=CAU">
+<img align="center" alt="Coding" width="1000" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjzCOcNFhj0YgPTt1f7je02az7mjQrLbVXlD3Au_pGYIkqzpSvWUHEsBKU7SwBZcuiJtM&usqp=CAU">
 <h1 align="center">Hi 👋, I'm Soujanya</h1>
 <h3 align="center">A data enthusiast..keen on using data to identify trends and solve business problems</h3>
 <img align="right" alt="Coding" width="300" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
