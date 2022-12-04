@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, Alteryx, Cloud Analytics**
 
-- 🤝 I’m looking for help with **Data analytics, Business analytics, coding**
+- 🤝 My Career Interests **Data analytics, Business analytics, Customer Engagement**
 
 - 📫 How to reach me **soujanya.kirh@gmail.com**
 
