@@ -1,7 +1,7 @@
 <img align="center" alt="Coding" width="900" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWzHITstEMeM1RI9B_oYAArGyy863ky3Bkl0YAeBaW_TjL2pjyGoyLOMs5rDn5bKQKO7M&usqp=CAU">
 <h1 align="center">Hi 👋, I'm Soujanya</h1>
 <h3 align="center">A data enthusiast..keen on using data to identify trends and solve business problems</h3>
-<img align="right" alt="Coding" width="300" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
+<img align="right" alt="Coding" width="250" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soujkrishnamurthy&label=Profile%20views&color=0e75b6&style=flat" alt="soujkrishnamurthy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soujkrishnamurthy" alt="soujkrishnamurthy" /></a> </p>
