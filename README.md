@@ -4,7 +4,6 @@
 <img align="right" alt="Coding" width="250" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soujkrishnamurthy&label=Profile%20views&color=0e75b6&style=flat" alt="soujkrishnamurthy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soujkrishnamurthy" alt="soujkrishnamurthy" /></a> </p>
 
 - 🌱 I’m currently learning **Python, Alteryx, Cloud Analytics**
 
