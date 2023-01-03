@@ -5,13 +5,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soujkrishnamurthy&label=Profile%20views&color=0e75b6&style=flat" alt="soujkrishnamurthy" /> </p>
 
 
-- 🌱 I’m currently learning **Python, Alteryx, Cloud Analytics**
+- 🌱 I’m currently learning **Python, RPA, Cloud Analytics**
 
 - 🤝 My Career Interests **Data analytics, Business analytics, Customer Engagement**
 
 - 📫 How to reach me **soujanya.kirh@gmail.com**
 
-- ⚡ Fun fact **I like traveling and dislike wasting food**
+- ⚡ Fun fact **I LIKE traveling and DISLIKE wasting food**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
